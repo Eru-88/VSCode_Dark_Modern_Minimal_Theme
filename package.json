@@ -1,0 +1,21 @@
+{
+  "name": "dark-modern-minimal",
+  "displayName": "Dark Modern Minimal",
+  "description": "A minimal color scheme based on the default Dark Modern theme of VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Modern Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Modern Minimal-color-theme.json"
+      }
+    ]
+  }
+}
